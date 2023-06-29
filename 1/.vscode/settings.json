@@ -1,0 +1,25 @@
+{
+    "kunpeng.remote.ssh.machineinfo": [],
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "kunpeng.func",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            },
+            {
+                "scope": "kunpeng.intrinsics",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            },
+            {
+                "scope": "kunpeng.builtIn",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            }
+        ]
+    }
+}
